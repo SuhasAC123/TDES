@@ -44,5 +44,3 @@ while True:
         output_file.write(new_file_bytes)
         print('Operation Done!')
         break
-        
-# Code Complete!
